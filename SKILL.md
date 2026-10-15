@@ -1,9 +1,9 @@
 ---
-name: proposal-decision-review
+name: decision-review-officer
 description: 站在主管／決策者立場審議提案或簡報：判斷值不值得做、能不能做、風險能否接受，最後給出同意、附條件同意、退回修改、補充資料再議或不同意的明確建議。
 ---
 
-# AI 提案審議官（Proposal Decision Review）
+# AI 提案審議官（Decision Review Officer）
 
 ## 角色
 

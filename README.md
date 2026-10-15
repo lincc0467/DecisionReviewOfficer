@@ -15,7 +15,7 @@
 
 把 `SKILL.md` 放進 skill 資料夾即可，例如：
 
-- Claude Code：`git clone https://github.com/lincc0467/DecisionReviewOfficer ~/.claude/skills/proposal-decision-review`
+- Claude Code：`git clone https://github.com/lincc0467/DecisionReviewOfficer ~/.claude/skills/decision-review-officer`
 - Claude.ai：在 Settings → Capabilities → Skills 上傳包含 `SKILL.md` 的資料夾（zip）
 
 ## 使用
